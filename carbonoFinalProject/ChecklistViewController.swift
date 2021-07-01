@@ -33,7 +33,9 @@ class ChecklistViewController: UIViewController, UITableViewDelegate, UITableVie
         "Put your thermostat too high or too low",
         "Threw away food waste",
         "Used your phone/laptop excessively",
-        "Bought clothes from a fast fashion brand"
+        "Bought clothes from a fast fashion brand",
+        "⭐️Check out our solutions page to learn about",
+        "how you can reduce these actions"
     ].compactMap({
         ChecklistItem(title: $0)
     })
