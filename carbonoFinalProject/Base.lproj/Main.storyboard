@@ -116,6 +116,9 @@
                                 <state key="normal" title="Click for more ➡">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
+                                <connections>
+                                    <segue destination="SlN-vd-eQu" kind="show" id="BEd-9s-eHw"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="D9Z-5b-uVK"/>
@@ -126,6 +129,22 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="43i-0e-pkt" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="827.536231884058" y="786.83035714285711"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="PfA-VX-fB8">
+            <objects>
+                <viewController id="SlN-vd-eQu" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="CZd-dD-LTO">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="jo5-fe-Aad"/>
+                        <color key="backgroundColor" red="0.23529411764705882" green="0.48627450980392156" blue="0.19215686274509802" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="WMj-tY-bvd"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="NiO-Am-bpf" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1489" y="786"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="hCt-nv-al3">
