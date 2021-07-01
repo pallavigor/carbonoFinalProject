@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3398B601268E28A800BDD358 /* ChecklistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3398B600268E28A800BDD358 /* ChecklistViewController.swift */; };
 		33B0DF44268BACF50050BFE4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B0DF43268BACF50050BFE4 /* AppDelegate.swift */; };
 		33B0DF46268BACF50050BFE4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B0DF45268BACF50050BFE4 /* SceneDelegate.swift */; };
 		33B0DF48268BACF50050BFE4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B0DF47268BACF50050BFE4 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3398B600268E28A800BDD358 /* ChecklistViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistViewController.swift; sourceTree = "<group>"; };
 		33B0DF40268BACF50050BFE4 /* carbonoFinalProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = carbonoFinalProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		33B0DF43268BACF50050BFE4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		33B0DF45268BACF50050BFE4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				33B0DF51268BACF60050BFE4 /* LaunchScreen.storyboard */,
 				33B0DF54268BACF60050BFE4 /* Info.plist */,
 				33B0DF4C268BACF50050BFE4 /* carbonoFinalProject.xcdatamodeld */,
+				3398B600268E28A800BDD358 /* ChecklistViewController.swift */,
 			);
 			path = carbonoFinalProject;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				33B0DF48268BACF50050BFE4 /* ViewController.swift in Sources */,
 				33B0DF44268BACF50050BFE4 /* AppDelegate.swift in Sources */,
 				33B0DF4E268BACF50050BFE4 /* carbonoFinalProject.xcdatamodeld in Sources */,
+				3398B601268E28A800BDD358 /* ChecklistViewController.swift in Sources */,
 				33B0DF46268BACF50050BFE4 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
