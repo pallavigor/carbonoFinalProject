@@ -137,6 +137,42 @@
                     <view key="view" contentMode="scaleToFill" id="CZd-dD-LTO">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="How to decrease your carbon footprint" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pOr-KT-W6b">
+                                <rect key="frame" x="41" y="47" width="333" height="97"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="34"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Some things you can do..." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="J94-pL-YcZ">
+                                <rect key="frame" x="72" y="152" width="270" height="29"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="24"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="24" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0kn-G5-rac">
+                                <rect key="frame" x="43" y="204" width="329" height="588"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <mutableString key="text">• Save water whenever possible
+       • Take shorter showers 
+• Minimize fossil fuel and non renewable energy usage that speed up climate change 
+       • Choose sustainable &amp; clean energy 
+       • Install solar panels
+• Eat low on the food chain
+       • Consume more fruits, veggies, grains, and beans (Livestock contribute 14.5% manmade global gas emissions!)
+       • Compost leftovers 
+• Buy Energy Star appliances
+• Don’t buy fast fashion
+       • Check out the app Good On You to check for ethical fashion brands! 
+
+</mutableString>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="20"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="jo5-fe-Aad"/>
                         <color key="backgroundColor" red="0.23529411764705882" green="0.48627450980392156" blue="0.19215686274509802" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </view>
@@ -144,7 +180,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="NiO-Am-bpf" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1489" y="786"/>
+            <point key="canvasLocation" x="1488.4057971014495" y="785.49107142857144"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="hCt-nv-al3">
